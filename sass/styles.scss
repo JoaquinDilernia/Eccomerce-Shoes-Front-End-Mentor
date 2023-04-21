@@ -1,0 +1,18 @@
+@use 'inicio';
+@use'variables';
+@use'header';
+@use'navbar';
+@use'modal-navbar';
+
+
+.main-conteiner{
+width: 375px;
+margin: auto;
+@media (mid-width: 1115px){
+    width: 1115px;
+}
+
+} 
+
+
+
